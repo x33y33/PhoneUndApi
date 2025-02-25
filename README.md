@@ -8,5 +8,5 @@
 git clone https://github.com/x33y33/PhoneUndApi.git
 ```
 ```
-
+cd PhoneUndApi
 ```
